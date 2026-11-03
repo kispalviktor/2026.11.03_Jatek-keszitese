@@ -1,0 +1,10 @@
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\bin\Debug\2026.11.03_Jatek.exe.config
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\bin\Debug\2026.11.03_Jatek.exe
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\bin\Debug\2026.11.03_Jatek.pdb
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\obj\Debug\2026.11.03_Jatek.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\obj\Debug\_2026._11._03_Jatek.Form1.resources
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\obj\Debug\_2026._11._03_Jatek.Properties.Resources.resources
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\obj\Debug\2026.11.03_Jatek.csproj.GenerateResource.cache
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\obj\Debug\2026.11.03_Jatek.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\obj\Debug\2026.11.03_Jatek.exe
+C:\Users\KispalViktor\source\repos\2026.11.03_Jatek\2026.11.03_Jatek\obj\Debug\2026.11.03_Jatek.pdb
